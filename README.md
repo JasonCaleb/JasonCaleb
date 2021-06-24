@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonCaleb
 - 👀 I’m interested in music, coding, and watching film (currently it's The Walking Dead)
-- 🌱 I’m currently learning python, html, css, networkx, and mobile aplication
+- 🌱 I’m currently learning python, html, css, networkx, and mobile app development
 - 📫 How to reach me ==> @jasonnnnn.09 or jasoncaleb302@gmail.com
 
 <!---
